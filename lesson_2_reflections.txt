@@ -14,6 +14,11 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    You can use 'git diff' to compare the differences in your files between the
+    working directory and the staging area, while 'git diff --staged' lets us
+    compare between the staging area and the most recent commit. This allows us
+    to determine exactly what changes we are commiting
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
