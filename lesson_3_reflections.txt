@@ -24,7 +24,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If you do any local work on a collaborative project, you can see what
+    progress others have made while you have been doing your own work. This
+    allows you to resolve any confilcts that arise, but at your own pace.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
