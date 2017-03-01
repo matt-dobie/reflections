@@ -40,4 +40,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to use a branch when trying out something new and creative,
+    with out affecting the solid working version of the project. Reducing risk
+    in this way allows you to try new things, and allows multiple people to 
+    collaborate on a project, only introudcing their new improvements when 
+    others agree that it's ready to go 
